@@ -1,1 +1,0 @@
-# program-for-merge-sort-in-c
